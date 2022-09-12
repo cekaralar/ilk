@@ -4,4 +4,5 @@
 
 öğrenme aşamaları
 
-planlı çalışma
+planlıçalışma
+
